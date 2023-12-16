@@ -27,7 +27,7 @@ export default {
   buildModules: [],
 
   // Configure project packaging path: https://www.nuxtjs.cn/api/configuration-builddir
-  buildDir: "dist",
+  buildDir: ".nuxt/dist",
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
