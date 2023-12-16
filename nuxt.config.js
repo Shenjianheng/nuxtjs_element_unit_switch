@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'nuxtjs_element_unit_switch',
+    title: 'px | vw | rem | unit converstion',
     htmlAttrs: {
       lang: 'en',
     },
